@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /rss/
+
+Sitemap: _your_url_/sitemap.xml
